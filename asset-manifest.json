@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YaroslavKosobutckyy/appredux/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/YaroslavKosobutckyy/appredux/static/js/main.0476a0f6.chunk.js",
+    "main.js.map": "/YaroslavKosobutckyy/appredux/static/js/main.0476a0f6.chunk.js.map",
+    "runtime-main.js": "/YaroslavKosobutckyy/appredux/static/js/runtime-main.3441cec4.js",
+    "runtime-main.js.map": "/YaroslavKosobutckyy/appredux/static/js/runtime-main.3441cec4.js.map",
+    "static/js/2.b3c5466e.chunk.js": "/YaroslavKosobutckyy/appredux/static/js/2.b3c5466e.chunk.js",
+    "static/js/2.b3c5466e.chunk.js.map": "/YaroslavKosobutckyy/appredux/static/js/2.b3c5466e.chunk.js.map",
+    "index.html": "/YaroslavKosobutckyy/appredux/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/YaroslavKosobutckyy/appredux/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b3c5466e.chunk.js.LICENSE.txt": "/YaroslavKosobutckyy/appredux/static/js/2.b3c5466e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3441cec4.js",
+    "static/js/2.b3c5466e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0476a0f6.chunk.js"
+  ]
+}
